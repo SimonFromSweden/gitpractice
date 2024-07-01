@@ -1,0 +1,16 @@
+div {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+img {
+   width: 100px;
+   height: 100px;
+}
+
+h2 {
+   color: greenyellow;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

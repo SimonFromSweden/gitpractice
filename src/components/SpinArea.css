@@ -1,0 +1,14 @@
+.spinDiv {
+   display: flex;
+   flex-direction: row;
+}
+
+#reel1 {
+   position: relative;
+   right: 50px;
+}
+
+#reel3 {
+   position: relative;
+   left: 50px;
+}
